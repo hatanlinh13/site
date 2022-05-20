@@ -1,0 +1,20 @@
+baseURL = 'http://linh-ha.org/'
+languageCode = 'en-us'
+title = 'Linh Ha'
+theme = 'PaperMod'
+
+[params.profileMode]
+enabled = true
+title = "Hà Tấn Linh"
+subtitle = "Software Engineer | OPSWAT | Ho Chi Minh City, Vietnam"
+imageUrl = "totoro.jpg"
+imageTitle = "<totoro>"
+imageWidth = 200
+imageHeight = 200
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/hatanlinh13"
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/hatanlinh13"
