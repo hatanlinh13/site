@@ -1,4 +1,4 @@
-baseURL = 'http://linh-ha.org/'
+baseURL = 'https://linh-ha.org/'
 languageCode = 'en-us'
 title = 'Linh Ha'
 theme = 'PaperMod'
