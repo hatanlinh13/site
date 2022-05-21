@@ -11,10 +11,30 @@ imageUrl = "totoro.jpg"
 imageTitle = "<totoro>"
 imageWidth = 200
 imageHeight = 200
-
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/hatanlinh13"
 [[params.socialIcons]]
 name = "linkedin"
 url = "https://linkedin.com/in/hatanlinh13"
+
+[[menu.main]]
+identifier = "about"
+name = "about"
+url = "/"
+weight = 10
+[[menu.main]]
+identifier = "blogs"
+name = "blogs"
+url = "/blogs/"
+weight = 20
+[[menu.main]]
+identifier = "projects"
+name = "projects"
+url = "/projects/"
+weight = 30
+[[menu.main]]
+identifier = "resume"
+name = "résumé"
+url = "https://www.linh-ha.org/cv.pdf"
+weight = 40
