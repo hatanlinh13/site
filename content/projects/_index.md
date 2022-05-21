@@ -1,1 +1,1 @@
-Ooops! There is nothing here. This developer sure is lazy :)
+Oops! There is nothing here. This developer sure is lazy :)

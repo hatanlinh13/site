@@ -1,4 +1,4 @@
-baseURL = 'https://www.linh-ha.org/'
+baseURL = 'https://tlh.dev'
 languageCode = 'en-us'
 title = 'Linh Ha'
 theme = 'PaperMod'
@@ -36,5 +36,5 @@ weight = 30
 [[menu.main]]
 identifier = "resume"
 name = "résumé"
-url = "https://www.linh-ha.org/cv.pdf"
+url = "https://tlh.dev/cv.pdf"
 weight = 40

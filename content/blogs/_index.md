@@ -1,1 +1,1 @@
-Ooops! There is nothing here. This blogger sure is lazy :)
+Oops! There is nothing here. This blogger sure is lazy :)
