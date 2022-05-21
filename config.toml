@@ -1,6 +1,6 @@
 baseURL = 'https://tlh.dev'
 languageCode = 'en-us'
-title = 'Linh Ha'
+title = 'the little hope'
 theme = 'PaperMod'
 
 [params.profileMode]
@@ -36,5 +36,5 @@ weight = 30
 [[menu.main]]
 identifier = "resume"
 name = "résumé"
-url = "https://tlh.dev/cv.pdf"
+url = "/cv.pdf"
 weight = 40
