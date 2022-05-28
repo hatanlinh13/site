@@ -1,40 +1,73 @@
-baseURL = 'https://tlh.dev'
-languageCode = 'en-us'
-title = 'the little hope'
-theme = 'PaperMod'
+baseURL = "https://tlh.dev"
+languageCode = "en-us"
+title = "the little hope"
+theme = "minimal"
+#disqusShortname = "username" # delete this to disable disqus comments
+#googleAnalytics = ""
 
-[params.profileMode]
-enabled = true
-title = "Hà Tấn Linh"
-subtitle = "Software Engineer | OPSWAT | Ho Chi Minh City, Vietnam"
-imageUrl = "totoro.jpg"
-imageTitle = "<totoro>"
-imageWidth = 200
-imageHeight = 200
-[[params.socialIcons]]
-name = "github"
-url = "https://github.com/hatanlinh13"
-[[params.socialIcons]]
-name = "linkedin"
-url = "https://linkedin.com/in/hatanlinh13"
+[params]
+    author = "Tan-Linh Ha"
+    profilePic = "/totoro.jpg"
+    description = "Personal corner of an ordinary developer"
+    githubUsername = "hatanlinh13"
+    accent = "#8197bf"
+    showBorder = true
+    backgroundColor = "#eeeeee"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
 [[menu.main]]
-identifier = "about"
-name = "about"
-url = "/"
-weight = 10
+    url = "/"
+    name = "about"
+    weight = 1
+
 [[menu.main]]
-identifier = "blogs"
-name = "blogs"
-url = "/blogs/"
-weight = 20
+    url = "/blogs/"
+    name = "blogs"
+    weight = 2
+
 [[menu.main]]
-identifier = "projects"
-name = "projects"
-url = "/projects/"
-weight = 30
+    url = "/projects/"
+    name = "projects"
+    weight = 3
+
 [[menu.main]]
-identifier = "resume"
-name = "résumé"
-url = "/cv.pdf"
-weight = 40
+    url = "/tags/"
+    name = "tags"
+    weight = 4
+
+[[menu.main]]
+    url = "/cv.pdf"
+    name = "curriculum vitae"
+    weight = 5
+
+# Social icons to be shown on the right-hand side of the navigation bar.
+# The "name" field should match the name of the icon in Font Awesome.
+# The list of available icons can be found at http://fontawesome.io/icons.
+
+[[menu.icon]]
+    url = "https://twitter.com/hatanlinh13/"
+    name = "fab fa-twitter"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://facebook.com/hatanlinh13/"
+    name = "fab fa-facebook"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://linkedin.com/in/hatanlinh13/"
+    name = "fab fa-linkedin"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://github.com/hatanlinh13/"
+    name = "fab fa-github"
+    weight = 4
+
+[[menu.icon]]
+    url = "mailto:linh@tlh.dev"
+    name = "fas fa-envelope"
+    weight = 5
