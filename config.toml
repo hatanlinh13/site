@@ -10,6 +10,7 @@ theme = "minimal"
     profilePic = "/totoro.jpg"
     description = "Personal corner of an ordinary developer"
     githubUsername = "hatanlinh13"
+    copyright = "&copy; 2022 [Tan-Linh Ha](https://tlh.dev). Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal). Subscribe [via RSS](/index.xml)."
     accent = "#8197bf"
     showBorder = true
     backgroundColor = "#eeeeee"
