@@ -8,11 +8,11 @@ theme = "minimal"
 [params]
     author = "Tan-Linh Ha"
     profilePic = "/totoro.jpg"
-    description = "Personal corner of an ordinary developer"
+    description = "personal corner of an ordinary developer"
     githubUsername = "hatanlinh13"
     copyright = "&copy; 2022 [Tan-Linh Ha](https://tlh.dev). Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal). Subscribe [via RSS](/index.xml)."
     accent = "#8197bf"
-    showBorder = true
+    showBorder = false
     backgroundColor = "#eeeeee"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
