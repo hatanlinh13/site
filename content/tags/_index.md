@@ -1,4 +1,4 @@
 ---
-title: "tlh | blogs"
+title: "tlh | tags"
 draft: false
 ---
