@@ -7,7 +7,7 @@ theme = "minimal"
 
 [params]
     author = "Tan-Linh Ha"
-    profilePic = "/totoro.jpg"
+    profilePic = "/totoro.png"
     description = "personal corner of an ordinary developer"
     githubUsername = "hatanlinh13"
     copyright = "&copy; 2022 [Tan-Linh Ha](https://tlh.dev). Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal). Subscribe [via RSS](/index.xml)."
