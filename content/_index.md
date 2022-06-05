@@ -6,10 +6,10 @@ draft: false
 ---
 Hello friends!
 
-My name is [Hà Tấn Linh](https://tlh.dev) (or [Tan-Linh Ha](https://tlh.dev) if you prefer that way). I'm currently working as a software engineer at [OPSWAT](https://www.opswat.com). Before that, I finished my honors program and received a bachelor's degree of Information Technology at [HCMUS](https://hcmus.edu.vn) in Vietnam.
+My name is [Hà Tấn Linh](https://tlh.dev) (or [Tan-Linh Ha](https://tlh.dev) if you prefer that way). I'm currently working as a software engineer at [OPSWAT](https://www.opswat.com), my work focused on building new features for our [CDR](https://en.wikipedia.org/wiki/Content_Disarm_%26_Reconstruction) solution. Before that, I finished my honors program and received a bachelor's degree of Information Technology at [HCMUS](https://hcmus.edu.vn) in Vietnam.
 
-I've always had a big interest in low-level system programming and always dreamed that I will be able to contribute to the open source community in this particular area. But I never had a chance to start; or in other words, I was lazy :)
+Usually in my free time, I love to learn and do new things on my GNU/Linux-powered machine. My interested topics including system programming, networking and distributed systems; though I'm still a beginner in all of them.
 
-I know I must start somewhere. Therefore, I created this website to mark a starting point. I will try to write about my journey to system programming on this [blog](/blogs/); and hopefully, in a near future, I could have something proudly to share to the world via my [projects](/projects/).
+Welcome to my little corner!
 
 ---
